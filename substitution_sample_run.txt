@@ -1,0 +1,12 @@
+# Encryption-Algorithms
+for apcsp
+
+
+
+substitution_cipher.py – test run results:
+
+Unencrypted: 8q3475tgq8o7iweguvbaeuyrgb8347gqw83i7ryb
+
+Encrypted: 1.jiMa2d.1\MVNYd5wyxY5m4dy1jiMd.N1jVM4my
+
+Decrypted: 8q3475tgq8o7iweguvbaeuyrgb8347gqw83i7ryb
